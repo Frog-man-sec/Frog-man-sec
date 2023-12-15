@@ -23,17 +23,22 @@ Currently working on:
 - `Pentesting` 🧪
 - `Reverse Engineering` 🤖
 
-## Tools
+### Tools
 - Nmap
 - Nuclei
 - Metasploit
 
-## Programming Languages
-- Python
-- C
-- JavaScript
-- Go
-- PHP
+### Programming Languages
+- <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+- <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+- <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+- <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+
+### Prototyping Boards
+- <img src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
+- <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+- <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
 
 ## Status
 <p><img src="https://github-readme-stats.vercel.app/api?username=Frog-man-sec&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="Frog-man-sec" /></p>
