@@ -14,11 +14,14 @@ A Jr. Pentester at Cyber Bangla and full time Bug Hunter.
 Just like other cyber security enthusiast, I also like to learn and explore new topics and techniques each and every day <br>
 But what is special about me, or should I say, what I do better than other is sticking with a `unknown`/ `new` topic untill I learn it. <br>
 Beside cyber security, I also like to work with the following things:
-- Electornics/ Robotics
-- Radio/ SDR
-- Astronomy
+- Electornics/ Robotics 🤖
+- Radio/ SDR 📡
+- Astronomy 🔭
 
-Currently working on `Red Teaming` and `Pentesting` + `Reverse Engineering`
+Currently working on:
+- `Red Teaming` 🔴
+- `Pentesting` 🧪
+- `Reverse Engineering` 🤖
 
 ## Tools
 - Nmap
