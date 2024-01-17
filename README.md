@@ -6,7 +6,7 @@ A Jr. Pentester at Cyber Bangla and full time Bug Hunter.
 
 [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sayed118601@gmail.com)](mailto:sayed118601@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Salehin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayed-salehin-ascii/)](https://www.linkedin.com/in/sayed-salehin-ascii/)
-[![Medium Badge](https://img.shields.io/badge/-Salehin-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@Frog-man-sec)](https://medium.com/@Frog-man-sec)
+[![Medium Badge](https://img.shields.io/badge/-Salehin-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@hoppp3r)](https://medium.com/@hoppp3r)
 [![Twitter Badge](https://img.shields.io/badge/-@AsciiHusky-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AsciiHusky)](https://twitter.com/AsciiHusky)
 [![](https://img.shields.io/github/stars/Frog-man-sec?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=Frog-man-sec&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite)
 [![](https://img.shields.io/github/followers/Frog-man-sec?color=27da6b&logo=Handshake)](https://github.com/Frog-man-sec?tab=followers)
