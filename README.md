@@ -23,10 +23,6 @@ Currently working on:
 - `Pentesting` 🧪
 - `Reverse Engineering` 🤖
 
-### Tools
-- Nmap
-- Nuclei
-- Metasploit
 
 ### Programming Languages
 - <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
