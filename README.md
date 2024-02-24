@@ -4,7 +4,7 @@ A Jr. Pentester at Cyber Bangla and full time Bug Hunter.
 
 ## Know Me
 
-[![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sayed118601@gmail.com)](mailto:sayed118601@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sayed118601@gmail.com)](mailto:hoppp3r.growl584@slmail.me)
 [![Linkedin Badge](https://img.shields.io/badge/-Salehin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayed-salehin-ascii/)](https://www.linkedin.com/in/sayed-salehin-ascii/)
 [![Medium Badge](https://img.shields.io/badge/-Salehin-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@hoppp3r)](https://medium.com/@hoppp3r)
 [![Twitter Badge](https://img.shields.io/badge/-@AsciiHusky-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AsciiHusky)](https://twitter.com/AsciiHusky)
