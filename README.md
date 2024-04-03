@@ -1,6 +1,6 @@
 # Hi, I'm Salehin
 
-A Jr. Pentester at Cyber Bangla and full time Bug Hunter.
+Jr. Pentester at Cyber Bangla and full time Bug Hunter.
 
 ## Know Me
 
