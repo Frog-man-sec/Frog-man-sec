@@ -1,6 +1,7 @@
 # Hi, I'm Salehin
 
 Jr. Pentester at Cyber Bangla and full time Bug Hunter.
+Also an Amateur Astronomer, Farmer, Radio and Electronics Enthusiast
 
 ## Know Me
 
