@@ -40,8 +40,7 @@ Currently working on:
 
 ## Status
 <p><img src="https://github-readme-stats.vercel.app/api?username=Frog-man-sec&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false" alt="Frog-man-sec" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Frog-man-sec&theme=material-palenight&hide_border=false" alt="Frog-man-sec" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Frog-man-sec&theme=material-palenight&hide_border=true" alt="Frog-man-sec" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frog-man-sec&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Frog-man-sec" /></p>
 
-![](https://github-profile-trophy.vercel.app/?username=Frog-man-sec&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
