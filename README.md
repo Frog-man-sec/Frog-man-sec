@@ -39,8 +39,6 @@ Currently working on:
 - <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
 
 ## Status
-<p><img src="https://github-readme-stats.vercel.app/api?username=Frog-man-sec&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false" alt="Frog-man-sec" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Frog-man-sec&theme=material-palenight&hide_border=true" alt="Frog-man-sec" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frog-man-sec&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Frog-man-sec" /></p>
 
 
